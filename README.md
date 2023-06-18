@@ -17,6 +17,8 @@ width=500>
 Apply [variational autoencoder](https://arxiv.org/abs/1906.02691) to construct FachionMNIST images
 using only 2 latent dimension space.
 
+<img src="https://github.com/ahmadhatahet/deep-learning/blob/master/imgs/vae.png"
+width=500>
 
 ### **4. [Exploring | Learning Rate Schedulers:](https://github.com/ahmadhatahet/deep-learning/blob/master/learning-schedulers.ipynb)**
 Plot the behavior of different known learning rate schedulers to use in training models.
